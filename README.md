@@ -11,11 +11,13 @@ A list to keep track of the software that I personally like and recommend.
 
 ### Utilities
 
-* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator)
+* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**
 * [AIDA64](https://www.aida64.com/downloads) (System information, diagnostics, and auditing)
 * [Speccy](https://www.piriform.com/speccy/download) (System information, including real time temperatures and software information)
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)
 
+
 ### Driver related
 
 * [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/) (GPU Driver uninstaller)
+
