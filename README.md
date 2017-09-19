@@ -6,7 +6,7 @@ A list to keep track of the software that I personally like and recommend.
 
 * [Ninite](https://ninite.com/) (Software installer and updater)
 * [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
-* [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
+
 
 ### Drivers / Driver related
 
@@ -29,6 +29,7 @@ A list to keep track of the software that I personally like and recommend.
 ### System performance
 
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)
+* [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
 
 ### Other Utilities
 
