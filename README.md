@@ -20,8 +20,9 @@ A list to keep track of the software that I personally like and recommend.
 
 * [Discord](https://discordapp.com/download) (All-in-one voice and text chat)
 
-### System information
+### Overclocking and System information
 
+* [MSI Afterburner](https://msi.com/page/afterburner) (Graphics card overclocking and overview)
 * [AIDA64](https://www.aida64.com/downloads) (System information, diagnostics, and auditing)
 * [Speccy](https://www.piriform.com/speccy/download) (System information, including real time temperatures and software information)
 
