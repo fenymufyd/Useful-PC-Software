@@ -14,7 +14,7 @@ A list to keep track of the software that I personally like and recommend.
 
 ### Multimedia
 
-* [OBSStudio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
+* [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
 
 ### Comunications
 
