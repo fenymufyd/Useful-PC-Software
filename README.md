@@ -7,8 +7,8 @@
  
 ### File editors
 
-* [Notepad++](https://notepad-plus-plus.org/) (Text editor)
-* [LibreOffice](http://www.libreoffice.org/download/download/) (Office software)
+* [Notepad++](https://notepad-plus-plus.org/) (Text editor) **(Open Source)**
+* [LibreOffice](http://www.libreoffice.org/download/download/) (Office software) **(Open Source)**
   
 ### Utilities
 
@@ -48,3 +48,9 @@
 
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)  
 * [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
+
+### Emulators
+
+* [RPCS3](https://rpcs3.net/) (PlayStation 3 Emulator) **(Open Source)**
+* [Xenia](http://xenia.jp/) (XBox 360 Emulator) **(Open Source)**
+* [CEMU](http://cemu.info/) (Wii U Emulator)
