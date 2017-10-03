@@ -4,6 +4,11 @@
 
 * [Ninite](https://ninite.com/) (Software installer and updater)
 * [SUMo](http://www.kcsoftwares.com/?download) (Scans your system for programs/executables and updates them, **Portable/zip version recommended, other versions contain adware**)
+ 
+### File editors
+
+* [Notepad++](https://notepad-plus-plus.org/) (Text editor)
+* [LibreOffice](http://www.libreoffice.org/download/download/) (Office software)
   
 ### Utilities
 
@@ -11,8 +16,6 @@
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
 * [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
 * [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
-
-  .
 
 ### Drivers / Driver related
 
