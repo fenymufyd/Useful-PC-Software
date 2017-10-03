@@ -10,6 +10,10 @@
 * [Notepad++](https://notepad-plus-plus.org/) (Text editor) **(Open Source)**
 * [LibreOffice](http://www.libreoffice.org/download/download/) (Office software) **(Open Source)**
   
+### Browsers
+
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)*  
+  
 ### Utilities
 
 * [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**:  
@@ -17,26 +21,29 @@
 * [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
 * [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
 
-### Drivers / Driver related
-
-* [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/) (GPU Driver uninstaller)
-
-### Browsers
-
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)*
-
 ### Multimedia
 
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
+* [VLC](https://www.videolan.org/vlc/index.html) (Cross-platform multimedia player) **(Open Source)**
+* [Kodi](https://kodi.tv/about/software) (Media centre software) **(Open Source)**
 
-### Software development
+### Media creation
 
-* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
-* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins.  )
+* [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
+* [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 
 ### Comunications
 
 * [Discord](https://discordapp.com/download) (All-in-one voice and text chat)
+
+### Drivers / Driver related
+
+* [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/) (GPU Driver uninstaller)
+
+### Software development 
+
+* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins.  )
 
 ### Overclocking and System information
 
