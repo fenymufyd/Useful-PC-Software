@@ -10,7 +10,7 @@
 
 * [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/) (GPU Driver uninstaller)
 
-## Browsers
+### Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**
 
