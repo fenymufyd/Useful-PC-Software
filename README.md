@@ -1,15 +1,18 @@
 # Useful PC Software
 
-### New Windows installation
+### Software installation
 
 * [Ninite](https://ninite.com/) (Software installer and updater)
-* [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
+* [SUMo](http://www.kcsoftwares.com/?download)
 
+  Scans your system for programs/executables, checks their version numbers against an online community database to see if there is a new version available. Portable/zip version recommended, other versions contain adware.
+  
 ### Utilities
 
 * [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)
 * [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
+* [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
 
 ### Drivers / Driver related
 
