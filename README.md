@@ -5,6 +5,11 @@
 * [Ninite](https://ninite.com/) (Software installer and updater)
 * [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
 
+### Utilities
+
+* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**
+* [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)
+* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
 
 ### Drivers / Driver related
 
@@ -17,6 +22,10 @@
 ### Multimedia
 
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
+
+### Game engines
+
+* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
 
 ### Comunications
 
@@ -33,8 +42,3 @@
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)
 * [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
 
-### Other Utilities
-
-* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**
-* [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)
-* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
