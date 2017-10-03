@@ -26,9 +26,12 @@
 
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
 
-### Game engines
+### Software development
 
 * [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+* [Eclipse](https://www.eclipse.org/) 
+
+  Integrated development environment (IDE) primaryly used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins.  
 
 ### Comunications
 
