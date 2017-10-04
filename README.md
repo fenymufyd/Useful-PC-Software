@@ -12,7 +12,8 @@
   
 ### Browsers
 
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)*  
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**  
+* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (Firefox advertisment blocker (Also available on chrome AFAIK))
   
 ### Utilities
 
