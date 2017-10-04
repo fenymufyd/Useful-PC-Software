@@ -44,7 +44,7 @@
 ### Software development 
 
 * [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
-* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins.  )
+* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
 
 ### Overclocking and System information
 
