@@ -13,7 +13,7 @@
 ### Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**  
-* [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (Firefox advertisment blocker (Also available on chrome AFAIK))
+    * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (Firefox advertisment blocker (Also available on chrome AFAIK))
   
 ### Utilities
 
@@ -30,8 +30,9 @@
 
 ### Media creation
 
-* [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
 * [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
+* [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
+
 
 ### Comunications
 
@@ -44,7 +45,9 @@
 ### Software development 
 
 * [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Java Integrated development environment (IDE))
 * [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
+
 
 ### Overclocking and System information
 
