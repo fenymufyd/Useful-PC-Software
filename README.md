@@ -33,6 +33,15 @@
 * [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 * [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
 
+### Game development
+
+* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+
+### Software development 
+
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Integrated development environment (IDE) with support for many programming languages (Primarily used for Java))
+* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
+* [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on InelliJ IDEA)
 
 ### Comunications
 
@@ -41,15 +50,6 @@
 ### Drivers / Driver related
 
 * [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/) (GPU Driver uninstaller)
-
-### Software development 
-
-* [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Integrated development environment (IDE) with support for many programming languages (Primarily used for Java))
-* [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
-
-### Game development
-
-* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
 
 ### Overclocking and System information
 
