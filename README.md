@@ -15,13 +15,6 @@
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**  
     * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (Firefox advertisment blocker (Also available on chrome AFAIK))
   
-### Utilities
-
-* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**:  
-* [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
-* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
-* [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
-
 ### Multimedia
 
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
@@ -62,8 +55,16 @@
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)  
 * [CCleaner](https://www.piriform.com/ccleaner/download) ('Junk' cleaner)
 
-### Emulators
+### Gaming
 
 * [RPCS3](https://rpcs3.net/) (PlayStation 3 Emulator) **(Open Source)**
 * [Xenia](http://xenia.jp/) (XBox 360 Emulator) **(Open Source)**
 * [CEMU](http://cemu.info/) (Wii U Emulator)
+
+### Other utilities
+
+* [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**:  
+* [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
+* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
+* [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
+* [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script)(PowerShell script for automation of routine tasks done after fresh installations of Windows 10)
