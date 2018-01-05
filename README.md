@@ -5,11 +5,12 @@
 * [Ninite](https://ninite.com/) (Software installer and updater)
 * [SUMo](http://www.kcsoftwares.com/?download) (Scans your system for programs/executables and updates them, **Portable/zip version recommended, other versions contain adware**)
  
-### File editors
+### Files and Explorers 
 
 * [Notepad++](https://notepad-plus-plus.org/) (Text editor) **(Open Source)**
 * [LibreOffice](http://www.libreoffice.org/download/download/) (Office software) **(Open Source)**
-  
+* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
+
 ### Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**  
@@ -61,10 +62,11 @@
 * [Xenia](http://xenia.jp/) (XBox 360 Emulator) **(Open Source)**
 * [CEMU](http://cemu.info/) (Wii U Emulator)
 * [Playnite](http://playnite.link/)(Video game library manager) **(Open source)**
+* [MEMU](http://www.memuplay.com/)(Android emulator)
+
 ### Other utilities
 
 * [Rufus](http://rufus.akeo.ie/?locale=en_US) (Bootable USB creator) **(Open Source)**:  
 * [F.lux](https://justgetflux.com/) (Makes the color of your computer's display adapt to the time of day)  
-* [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
 * [Ultimate Windows Tweaker 4](http://www.thewindowsclub.com/ultimate-windows-tweaker-4-windows-10) (Windows 10 tweaker)
 * [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script)(PowerShell script for automation of routine tasks done after fresh installations of Windows 10) **(Open source)**
