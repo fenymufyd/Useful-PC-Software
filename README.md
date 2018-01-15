@@ -67,13 +67,16 @@
 
 # Gaming
 
-* [Borderless Gaming](http://store.steampowered.com/app/388080/Borderless_Gaming/) (Play games in a borderless window)
+* [Borderless Gaming](http://store.steampowered.com/app/388080/Borderless_Gaming/) (Play games in a borderless window) **(Open Source)**
 * [Playnite](http://playnite.link/) (Video game library manager) **(Open source)**
+
+### Emulators
+
 * [RPCS3](https://rpcs3.net/) (PlayStation 3 emulator) **(Open Source)**
 * [PCSX2](https://pcsx2.net/) (PlayStation 2 emulator) **(Open Source)**
 * [Xenia](http://xenia.jp/) (XBox 360 emulator) **(Open Source)**
 * [CEMU](http://cemu.info/) (Wii U emulator)
-* [Dolphin](https://es.dolphin-emu.org/) (Wii & Gamecube emulator)
+* [Dolphin](https://es.dolphin-emu.org/) (Wii & Gamecube emulator) **(Open Source)**
 * [MEMU](http://www.memuplay.com/) (Android emulator)
 
 # Other utilities
