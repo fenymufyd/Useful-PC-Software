@@ -45,7 +45,7 @@
 # Comunications
 
 * [Discord](https://discordapp.com/download) (All-in-one voice and text chat)
-* [TeamSpeak 3](https://www.teamspeak.com/en/teamspeak3)(All-in-one voice and text chat) 
+* [TeamSpeak 3](https://www.teamspeak.com/en/teamspeak3) (All-in-one voice and text chat) 
 
 # Drivers / Driver related
 
