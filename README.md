@@ -21,6 +21,7 @@
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
 * [VLC](https://www.videolan.org/vlc/index.html) (Cross-platform multimedia player) **(Open Source)**
 * [Kodi](https://kodi.tv/about/software) (Media centre software) **(Open Source)**
+* [Clementine](https://www.clementine-player.org/en) (Music player and library organizer) **(Open Source)**
 
 ### Media creation
 
@@ -32,15 +33,18 @@
 
 * [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
 * [Unity3D](https://unity3d.com/es) (2D and 3D Game engine)
+
 ### Software development 
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Integrated development environment (IDE) with support for many programming languages (Primarily used for Java))
 * [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
 * [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on InelliJ IDEA)
+* [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 
 ### Comunications
 
 * [Discord](https://discordapp.com/download) (All-in-one voice and text chat)
+* [TeamSpeak 3](https://www.teamspeak.com/en/teamspeak3)(All-in-one voice and text chat) 
 
 ### Drivers / Driver related
 
@@ -53,7 +57,7 @@
 * [MSI Afterburner](https://msi.com/page/afterburner) (Graphics card overclocking and overview)
 * [AIDA64](https://www.aida64.com/downloads) (System information, diagnostics, and auditing)
 * [Speccy](https://www.piriform.com/speccy/download) (System information, including real time temperatures and software information)
-
+* [HWInfo](https://www.hwinfo.com/) (Hardware information)
 ### System performance
 
 * [PC Decrapifier](https://www.pcdecrapifier.com/download) (Recommends what programs and unnecessary startup items you can remove to speed up your PC)  
@@ -61,10 +65,13 @@
 
 ### Gaming
 
-* [RPCS3](https://rpcs3.net/) (PlayStation 3 Emulator) **(Open Source)**
-* [Xenia](http://xenia.jp/) (XBox 360 Emulator) **(Open Source)**
-* [CEMU](http://cemu.info/) (Wii U Emulator)
+* [Borderless Gaming](http://store.steampowered.com/app/388080/Borderless_Gaming/) (Play games in a borderless window)
 * [Playnite](http://playnite.link/) (Video game library manager) **(Open source)**
+* [RPCS3](https://rpcs3.net/) (PlayStation 3 emulator) **(Open Source)**
+* [PCSX2](https://pcsx2.net/) (PlayStation 2 emulator) **(Open Source)**
+* [Xenia](http://xenia.jp/) (XBox 360 emulator) **(Open Source)**
+* [CEMU](http://cemu.info/) (Wii U emulator)
+* [Dolphin](https://es.dolphin-emu.org/) (Wii & Gamecube emulator)
 * [MEMU](http://www.memuplay.com/) (Android emulator)
 
 ### Other utilities
