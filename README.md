@@ -26,6 +26,7 @@
 
 * [GIMP](https://www.gimp.org/) (Image editor) **(Open Source)**
 * [Blender](https://www.blender.org/) (3D modelling, video editing, rendering...) **(Open Source)**
+* [Audacity](https://www.audacityteam.org/) (Audio software for multi-track recording and editing) **(Open Source)**
 
 ### Game development
 
