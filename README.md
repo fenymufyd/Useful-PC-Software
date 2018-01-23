@@ -10,12 +10,17 @@
 * [Notepad++](https://notepad-plus-plus.org/) (Text editor) **(Open Source)**
 * [LibreOffice](http://www.libreoffice.org/download/download/) (Office software) **(Open Source)**
 * [7-Zip](http://www.7-zip.org/download.html) (File archiver) **(Open Source)**
+* [WinDirStat](https://windirstat.net/) (Disk usage statistics viewer and cleanup tool)
 
 # Browsers
 
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) (Internet browser, new versions are really good (57.0+)) **(Open Source)**  
     * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) (Firefox advertisment blocker (Also available on chrome AFAIK))
   
+# Security
+
+* [KeePass](https://keepass.info/) (Password manager) **(Open Source)**
+
 # Multimedia
 
 * [OBS Studio](https://obsproject.com/) (Video recording and live streaming) **(Open Source)**
