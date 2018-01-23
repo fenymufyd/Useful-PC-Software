@@ -39,7 +39,7 @@
 
 ### Game development
     
-* [Godot Engine](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
+* [Godot](https://godotengine.org/) (2D and 3D Game engine) **(Open Source)**
 * [Unity3D](https://unity3d.com/es) (2D and 3D Game engine)
         
 # Comunications
