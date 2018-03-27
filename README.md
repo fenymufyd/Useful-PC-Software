@@ -38,7 +38,7 @@
 
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/) (Integrated development environment (IDE) with support for many programming languages (Primarily used for Java))
 * [Eclipse](https://www.eclipse.org/) (Integrated development environment (IDE) primarily used for developing Java applications, may also be used to develop applications in other programming languages via plug-ins)
-* [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on InelliJ IDEA)
+* [Android Studio](https://developer.android.com/studio/index.html) (Integrated development environment (IDE) for Android (Based on IntelliJ IDEA)
 * [Visual Studio Code](https://code.visualstudio.com) (Source code editor) **(Open Source)**
 * [Git](https://git-scm.com/) (Distributed version control system) **(Open Source)**
 
