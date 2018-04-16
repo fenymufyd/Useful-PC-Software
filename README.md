@@ -92,8 +92,3 @@
 * [Windows 10 initial setup script](https://github.com/Disassembler0/Win10-Initial-Setup-Script) (PowerShell script for automation of routine tasks done after fresh installations of Windows 10) **(Open source)**
 * [qBittorrent](https://www.qbittorrent.org/) (BitTorrent protocol client)
 * [Clover](http://en.ejie.me/) (Adds multi-tab functionality to the Windows Explorer)
-
-
-# OTHER INFORMATION
-
-[![HitCount](http://hits.dwyl.io/Mayuso/Useful-PC-Software.svg)](http://hits.dwyl.io/Mayuso/Useful-PC-Software)
